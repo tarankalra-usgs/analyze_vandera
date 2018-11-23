@@ -1,0 +1,6 @@
+1. levels_wecon         --> Different vertical levels with wec on and roller on
+1. levels_weconnew2     --> Different vertical levels with wec on and roller on with some changes to zref calc.
+2. levels_wecoff        --> Different vertical levels with wec_vf off and roller off
+3. levels_wec_rolleroff --> Different vertical levels with wec_vf ON and roller off
+4. analyze_zr_udelta    --> Analyzing zr, udelta calculation (Madsen's calculation)
+5. zravg_0_5z2          --> If we use average depth height when zref > z_r(1) case 
